@@ -1,0 +1,11 @@
+Flask==2.3.3
+Werkzeug==2.3.7
+python-dotenv==1.0.1
+pytz==2024.1
+pandas==2.2.2
+numpy==1.26.4
+twilio==9.0.1
+langchain==0.2.0
+langchain-core==0.1.48
+langchain-groq==0.0.3
+serpapi==0.6.1
